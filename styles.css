@@ -1,0 +1,66 @@
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #dbf6e9;
+  background-image: url(brushed-alum.png);
+}
+
+h1 {
+  margin: 2rem;
+  font-family: 'Lobster', cursive;
+  font-size: 9rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 4rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  margin: 3rem;
+  background-color: #dbf6e9;
+  text-align: center;
+  color: #4ECCA3;
+  font-weight: 700;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  padding: 1.5rem 2rem;
+  border-radius: 80%;
+  border: 2px solid #4ECCA3;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background-color: #dbf6e9;
+}
+
+footer {
+  margin: 2rem;
+  color: #4ecca3;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
