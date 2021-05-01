@@ -13,9 +13,15 @@ Bring your family around the table and Roll the Dice to start the game!
 
 ## Player 1 Wins!
 
+![player1wins](https://user-images.githubusercontent.com/67807290/116788696-f12ff880-aa5f-11eb-993b-cec938b76451.jpg)
+
 ## Player 2 Wins!
 
+![player2wins](https://user-images.githubusercontent.com/67807290/116788701-f55c1600-aa5f-11eb-812d-3f55093588e5.jpg)
+
 ## Draw!
+
+![draw](https://user-images.githubusercontent.com/67807290/116788704-f8570680-aa5f-11eb-80fd-b4bbc8c1e9e2.jpg)
 
 * Built with:
   * HTML5 & CSS3
